@@ -1,2 +1,2 @@
-# SVTA.github.io
+# CAViR Demo
 
